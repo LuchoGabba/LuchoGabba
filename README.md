@@ -2,6 +2,11 @@
 
 ## I'm Luciano Gabbanelli
 
+www.linkedin.com/in/luciano-gabbanelli-75302218
+
+[![Linkedin Badge](https://img.shields.io/badge/-Follow_Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-gabbanelli-75302218///)](https://www.linkedin.com/in/luciano-gabbanelli-75302218/) [![Gmail Badge](https://img.shields.io/badge/-Contact_Me-d44638?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:	l.gabbanelli@assemblerschool.com)](mailto:	l.gabbanelli@assemblerschool.com)
+
+
 <!--
 **LuchoGabba/LuchoGabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
